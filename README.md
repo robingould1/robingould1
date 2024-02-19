@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Google Cybersecurity (AlgoExpert)</b>
+- <b>Google Cybersecurity Professional</b>
   - [Conducting a Security Audit](https://github.com/robingould1/ConductSecurityAudit)
 
 
